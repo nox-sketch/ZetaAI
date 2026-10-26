@@ -1,0 +1,19 @@
+{
+  "banned": [],
+  "warns": {},
+  "groupConfig": {},
+  "chatAiStatus": {},
+  "globalAiStatus": true,
+  "botPersonality": "default",
+  "customPersonalities": {},
+  "owners": [],
+  "keeps": [],
+  "usage": {},
+  "mediaUsage": {},
+  "drawUsage": {},
+  "terminalLinkCode": null,
+  "terminalDmCode": null,
+  "antiDeleteLinkTarget": null,
+  "debugMode": true,
+  "activeRaidKey": null
+}

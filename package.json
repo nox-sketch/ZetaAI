@@ -1,0 +1,14 @@
+{
+  "name": "wa-genz-bot",
+  "version": "3.3.0",
+  "type": "module",
+  "main": "index.mjs",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.22",
+    "axios": "^1.19.0",
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.4.2",
+    "pino": "^10.3.1",
+    "yt-dlp-exec": "^1.0.2"
+  }
+}
